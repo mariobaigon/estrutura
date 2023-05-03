@@ -1,0 +1,19 @@
+body{
+    background: #8888;
+}
+
+h1{
+    text-align: center;
+
+}
+
+p{
+    
+    font-weight: bold;
+    
+}
+
+h2{
+    text-decoration: double;
+    color: blue;
+}
